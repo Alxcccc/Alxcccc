@@ -5,7 +5,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Python+Developer;Tec.+Sofware+Developer;Backend+Developer&center=true&width=380&height=45" alt="Typing SVG" />
 	</a>
 </p>
-
+<a href="https://app.daily.dev/alxc"><img src="https://api.daily.dev/devcards/v2/qWVic1RxmM9695AbK5Pmg.png?r=58j&type=default" width="356" alt="Alec Echavarria's Dev Card"/></a>
 <pre>
 💻 I am developing my skills as a Python Developer | Enthuastic about new technologies
 📚 I have a Bachelors in Technical Software Developer
