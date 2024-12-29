@@ -7,7 +7,7 @@
 </p>
 
 <pre>
-💻 I am developing my skills as a Backend Developer | Enthuastic about new technologies
+💻 I am developing my skills as a Python Developer | Enthuastic about new technologies
 📚 I have a Bachelors in Technical Software Developer
 📝 I have a strong interest in building Backend for multiply apps
 🌱 Focusing on Learning about customer needs and making their lives easier
