@@ -30,8 +30,5 @@
 </p>
 
 ---
-<div align="center">
-<a href="https://app.daily.dev/alxc"><img src="https://api.daily.dev/devcards/v2/qWVic1RxmM9695AbK5Pmg.png?r=58j&type=default" width="356" alt="Alec Echavarria's Dev Card"/></a>
-</div>
 [Alxc]
 Last Edited on : 29/12/2024
