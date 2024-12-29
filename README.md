@@ -7,13 +7,12 @@
 </p>
 
 <pre>
-💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
+💻 I am developing my skills as a Backend Developer | Enthuastic about new technologies
+📚 I have a Bachelors in Technical Software Developer
+📝 I have a strong interest in building Backend for multiply apps
 🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+🌟 Main languages: Python
+🚩 Interested in Backend
 </pre>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
@@ -32,5 +31,5 @@
 
 ---
 
-[StefanosSt](https://github.com/StefanosSt)
-Last Edited on : 13/08/2023
+[Alxc]
+Last Edited on : 29/12/2024
