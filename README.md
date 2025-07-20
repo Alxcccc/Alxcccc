@@ -11,7 +11,7 @@
 📚 I have a Bachelors in Technical Software Developer
 📝 I have a strong interest in building Backend for multiply apps
 🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Python
+🌟 Main languages: Python, Go
 🚩 Interested in Backend
 </pre>
 
